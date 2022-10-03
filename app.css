@@ -1,1 +1,6 @@
 /* here we go */
+
+img {
+    width: 30%;
+    margin: calc(10%/6);
+}
